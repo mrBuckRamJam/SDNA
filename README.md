@@ -7,11 +7,13 @@
  / _, _/ ___ |/ /  / / / /_/ / / ___ |/ /  / /  
 /_/ |_/_/  |_/_/  /_/  \____/_/_/  |_/_/  /_/   
                                                 
-```
 for ROMA.EXE - 4K INTRO:
 SDNA - an hypnotic organic cell journey.
 Coded by: Mr.Buck Ram Jam - 09/05/2026 - 12:55.
 Toolkits: NASM + CRINKLER + 4kLANG.
+
+```
+
 
 SCENER DNA - 4k Intro (limited to 4096 bytes) in x86 Assembly for Windows - Technical Details:
 
